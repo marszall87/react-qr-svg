@@ -49,7 +49,7 @@
     "jest": "^19.0.0",
     "json-loader": "^0.5.4",
     "purecss": "^0.6.0",
-    "react": "~15.5.3",
+    "react": "15.5.3",
     "react-dom": "~15.5.3",
     "react-ghfork": "^0.3.3",
     "react-test-renderer": "~15.5.4",
