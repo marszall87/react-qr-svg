@@ -19,7 +19,7 @@
   "main": "dist-modules",
   "typings": "./index.d.ts",
   "dependencies": {
-    "prop-types": "^15.5.8",
+    "prop-types": "^15.5.9",
     "qr.js": "0.0.0"
   },
   "devDependencies": {
