@@ -3,7 +3,7 @@
   "description": "React.js component for SVG QR codes with logo in the middle",
   "author": "Michał Nykiel",
   "user": "marszall87",
-  "version": "0.0.0-semantic-release",
+  "version": "0.0.1",
   "scripts": {
     "start": "webpack-dev-server",
     "test": "npm run test:lint && npm run test:js && npm run test:ts",
