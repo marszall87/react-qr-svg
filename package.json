@@ -1,8 +1,8 @@
 {
-  "name": "react-qr-svg",
-  "description": "React.js component for SVG QR codes",
-  "author": "Dan Homola",
-  "user": "no23reason",
+  "name": "react-qr-svg-logo",
+  "description": "React.js component for SVG QR codes with logo in the middle",
+  "author": "Michał Nykiel",
+  "user": "mnykiel87",
   "version": "0.0.0-semantic-release",
   "scripts": {
     "start": "webpack-dev-server",
